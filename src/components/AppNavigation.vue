@@ -4,6 +4,7 @@
             <v-list>
                 <template v-for="(item, index) in items">
                     <v-list-tile :key="index" :to="{path: item.link}">
+                        <v-list-tile-content>
                             {{item.title}}
                         </v-list-tile-content>
                     </v-list-tile>

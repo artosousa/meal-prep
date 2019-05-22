@@ -1,5 +1,5 @@
 <template>
-    <v-container fill-height fluid class="signin-hero" style="max-height: 100vh;">> 
+    <v-container fill-height fluid class="signin-hero" style="max-height: 100vh;">
         <v-layout align-center justify-center>
             <v-flex xs12 sm8 md4>
                 <v-card class="elevation-12">
